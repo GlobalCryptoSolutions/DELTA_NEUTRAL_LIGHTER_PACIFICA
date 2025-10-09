@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "state": "HOLDING",
+  "current_cycle_number": 1,
+  "current_position": {
+    "symbol": "FARTCOIN",
+    "opened_at": "2025-10-09T22:47:47.651249+00:00",
+    "target_close_at": "2025-10-10T10:47:47.651249+00:00",
+    "long_exchange": "Pacifica",
+    "short_exchange": "Lighter",
+    "notional": 19.419368,
+    "leverage": 1,
+    "lighter_market_id": 21
+  },
+  "completed_cycles": [],
+  "cumulative_stats": {
+    "total_cycles": 0,
+    "successful_cycles": 0,
+    "failed_cycles": 0,
+    "total_realized_pnl": 0.0,
+    "last_error": null,
+    "last_error_at": null
+  },
+  "initial_capital": 632.062743,
+  "last_updated": "2025-10-09T23:18:38.657219+00:00"
+}
